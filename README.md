@@ -1,4 +1,4 @@
-# 识笺 闪卡学习工具 鸿蒙原生APP
+# SpeakTime 闪卡学习工具 鸿蒙原生APP
 
 <div align="center">
   <img src="doc/app.png" alt="识笺应用效果图" width="400">
@@ -7,7 +7,7 @@
 
 ## 项目介绍
 
-**识笺**是一款基于鸿蒙系统开发的高效学习应用，采用科学的卡片学习法，帮助用户通过反复测试和记忆巩固知识。无论是语言学习、考证备考、专业技能提升还是日常知识积累，识笺都能为你提供个性化的学习体验。
+**SpeakTime**是一款基于鸿蒙系统开发的高效学习应用，采用科学的卡片学习法，帮助用户通过反复测试和记忆巩固知识。无论是语言学习、考证备考、专业技能提升还是日常知识积累，识笺都能为你提供个性化的学习体验。
 
 **核心优势：**
 - 基于科学记忆曲线，智能调整复习间隔
@@ -130,3 +130,4 @@ shijian/
 
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=nutpi/shijian&type=Date)](https://star-history.com/#nutpi/shijian&Date)
+
